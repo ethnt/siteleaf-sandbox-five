@@ -1,10 +1,7 @@
 ---
-title: Nested Trees
+title: Space Jam
 timezone: UTC
 collections:
-  photography:
-    title: Photography
-    output: true
   posts:
     title: Posts
     output: true
